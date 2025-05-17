@@ -1,0 +1,34 @@
+Lab Questionnaire (Qn1 - Qn5) for the following format:
+-------------------------------------------------------
+
+Format
+-------
+
+1. Aim of statement:
+2. System requirement:
+    a. Hardware:
+        i. Processor:
+        ii. RAM/ Memory:
+    
+    b. Software:
+        i. Operating System: 
+        ii. Application Software: 
+
+3. Algorithm:
+4. Flowchart:
+5. Source code:
+6. Output:
+7. Conclusion:
+
+
+Questionnaire
+-------------
+1. Experiment a program in C++ to display your name. [Sequence]
+2. Experiment a program in C++ to calculate simple interest. [Sequence]
+3. Experiment a program in C++ to calculate the sum of two user input numbers. [Sequence]
+4. Experiment a program in C++ to find the sum of first 10 natural numbers. [Looping (Iteration)]
+5. Experiment a program in C++ find the greatest number among three user input numbers. [Selection (Decision)]
+
+
+Assigned : 2082/02/02, Friday
+Deadline : 2082/02/16, Friday

@@ -26,3 +26,4 @@ int main()
     t1.displayarea();
     return 0;
 }
+ 
