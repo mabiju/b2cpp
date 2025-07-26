@@ -1,0 +1,11 @@
+Handwritten Assingnment 1
+-------------------------
+1. Differentiate between structured and object-oriented programming paradigms with suitable examples and major features.
+2. Explain the concept of static data members and static member functions with a practical scenario. Write a program that uses both.
+3. Describe the types of inheritance in C++ with syntax, diagram and examples.
+4. Exemplify the execution sequence of constructor and destructor in an inheritance hierarchy.
+5. What is ambiguity in multiple inheritance? Write a sample code and explain how scope resolution solves it.
+
+
+Assigned : 2082/04/11, Sunday
+Deadline : 2082/04/18, Sunday
