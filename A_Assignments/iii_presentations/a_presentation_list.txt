@@ -1,5 +1,5 @@
 1. Samir (Done) Polymorphism
 2. Manisha (Done) OOP vs POP
 3. Rozeeka (Done) Inheritance and its types
-4. Madan (Sunday) Ambiguity problem and resolution
+4. Madan (Done) Ambiguity problem and resolution
 5. Rezzina (Sunday) Static data member and Static member function 
