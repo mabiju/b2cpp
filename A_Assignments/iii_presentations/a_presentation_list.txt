@@ -1,5 +1,49 @@
-1. Samir (Done) Polymorphism
-2. Manisha (Done) OOP vs POP
-3. Rozeeka (Done) Inheritance and its types
-4. Madan (Done) Ambiguity problem and resolution
-5. Rezzina (Sunday) Static data member and Static member function 
+1. Samir: Polymorphism (Done)
+2. Manisha: OOP vs POP (Done)
+3. Rozeeka: Inheritance and its types (Done)
+4. Madan: Ambiguity problem and resolution (Done)
+5. Rejina: Static data member and Static member function (Done)
+6. Anjal: Insertion and Extraction Operators (Done)
+7. Babul: Exception handling mechanism: throw, catch and try
+8. Bhanubhakta: Type conversion (Done)
+9. Bibek
+10. Binita: Access controls: private, protected and public (Done)
+11. Biplap
+12. Bishal Kumar (Out of Contact)
+13. David: Features of Object Oriented Programming
+14. Dhawa: Constructors and its Types (Done)
+15. Grace: Data Member and Member Function of class
+16. Jiya: Execution sequence of constructor and destructor in inheritance
+17. Kailash: Runtime Polymorphism and Compile time Polymorphism
+18. Mahima
+19. Manika
+20. Naresh: C++ Program Structure
+21. Niruta: Virtual Function, Pure Virtual function and Abstract Class
+22. Nischal
+23. Om Prasad (Out of Contact)
+24. Prajjwol Kiran: Default arguments and Reference arguments
+25. Prajjwol: Friend function and friend class
+26. Pratik: Constructor Overloading and descructor
+27. Ranjit: Object and Class in OOP
+28. Rishika
+29. Saphal: Data types, variables and constants
+30. Sasank
+31. Simanta (Out of Contact)
+32. Sujal (Out of Contact)
+33. Sujan
+34. Sujata: 
+35. Suman (Out of Contact)
+36. Utsab
+
+
+
+
+Returning by reference
+Array in Class and Array of Objects 
+Deriving class using access specifiers: private, public and protected
+Containership
+
+Encapsulation and its implementation
+Error vs Exception
+
+Exception handling of basic types and user-defined types 
