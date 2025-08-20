@@ -16,7 +16,7 @@
 16. Jiya: Execution sequence of constructor and destructor in inheritance
 17. Kailash: Runtime Polymorphism and Compile time Polymorphism
 18. Mahima
-19. Manika
+19. Manika: Exception handling of basic types and user-defined types 
 20. Naresh: C++ Program Structure
 21. Niruta: Virtual Function, Pure Virtual function and Abstract Class
 22. Nischal
@@ -25,25 +25,24 @@
 25. Prajjwol: Friend function and friend class
 26. Pratik: Constructor Overloading and descructor
 27. Ranjit: Object and Class in OOP
-28. Rishika
+28. Rishika: Error vs Exception
 29. Saphal: Data types, variables and constants
-30. Sasank
+30. Sasank: Array in Class and Array of Objects
 31. Simanta (Out of Contact)
 32. Sujal (Out of Contact)
 33. Sujan
-34. Sujata: 
+34. Sujata: Encapsulation and its implementation
 35. Suman (Out of Contact)
 36. Utsab
 
 
 
-
+Not assigned titles
+---------------------
 Returning by reference
 Array in Class and Array of Objects 
 Deriving class using access specifiers: private, public and protected
 Containership
 
-Encapsulation and its implementation
-Error vs Exception
 
-Exception handling of basic types and user-defined types 
+
