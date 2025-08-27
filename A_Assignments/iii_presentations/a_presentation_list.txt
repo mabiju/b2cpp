@@ -9,7 +9,7 @@
 9. Bibek
 10. Binita: Access controls: private, protected and public (Done)
 11. Biplap
-12. Bishal Kumar (Out of Contact)
+12. Bishal Kumar
 13. David: Features of Object Oriented Programming
 14. Dhawa: Constructors and its Types (Done)
 15. Grace: Data Member and Member Function of class (Done)
@@ -20,19 +20,19 @@
 20. Naresh: C++ Program Structure (Done)
 21. Niruta: Virtual Function, Pure Virtual function and Abstract Class (Done)
 22. Nischal
-23. Om Prasad (Out of Contact)
-24. Prajjwol Kiran: Default arguments and Reference arguments
+23. Om Prasad
+24. Prajjwol Kiran: Default arguments and Reference arguments (Done)
 25. Prajjwol: Friend function and friend class (Done)
 26. Pratik: Constructor Overloading and descructor
-27. Ranjit: Object and Class in OOP
-28. Rishika: Error vs Exception
+27. Ranjit: Object and Class in OOP (Done)
+28. Rishika: Error vs Exception (Done)
 29. Saphal: Data types, variables and constants (Done)
 30. Sasank: Array in Class and Array of Objects (Done)
-31. Simanta (Out of Contact)
-32. Sujal (Out of Contact)
-33. Sujan
+31. Simanta
+32. Sujal
+33. Sujan: Containership
 34. Sujata: Encapsulation and its implementation
-35. Suman (Out of Contact)
+35. Suman
 36. Utsab
 
 
@@ -42,7 +42,7 @@ Not assigned titles
 Returning by reference
 Array in Class and Array of Objects 
 Deriving class using access specifiers: private, public and protected
-Containership
+
 
 
 
