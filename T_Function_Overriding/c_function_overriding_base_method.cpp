@@ -16,6 +16,7 @@ public:
     void display()
     {
         cout << "Namaste Sanothimi" << endl;
+        SuperClass::display();
     }
 };
 
@@ -23,6 +24,5 @@ int main()
 {
     SubClass obj;
     obj.display();
-    obj.SuperClass::display();
     return 0;
 }
