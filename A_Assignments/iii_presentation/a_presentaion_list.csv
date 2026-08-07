@@ -1,4 +1,31 @@
 S.N.,Symbol No,Name,Presentation Title,Status
+<<<<<<< HEAD
+1,8221015,Kapil Shestha,Constructor and Destructor,1
+2,8221036,Smriti Ghimire,Variables,1
+3,8221014,Jenisha Ghimire,Operators,1
+4,8221029,Prabina Rayamajhi,Ambiguity Problem in Multiple Inheritance,1
+5,8221031,Pramisha Khatri,Comparison between c and cpp with structure,1
+6,8221032,Rakshya Neupane,Inline Function and Default Arguments,1
+7,8221033,Rijan Shrestha,Reference Arguments,1
+8,8221021,Nischal Bade,Static field and Method,1
+9,8221023,Nishu Thakur,Extraction and Insertion Operators in C++,1
+10,8221039,Swastika Timalsina,Polymorphism,1
+11,8221030,Prakriti Parajuli,Inheritance,1
+12,8221001,Aasha Shrestha,Overloaded Function,1
+13,8221035,Santhoshi Khadka,Polymorphism,1
+14,8221004,Anusha Khadka,Array,1
+15,8221003,Anisha Adhikari,Type Conversion,0
+16,0000000,Ashish Tamang,Variables and Constants in CPP,0
+17,0000000,Nitesh Poudel,Control Structure with C++,0
+18,0000000,Sushan Dulal,Overloaded Function,0
+19,0000000,Manjil Dhamala,Variables and Constants in CPP,Shrawan 21
+
+
+
+
+
+
+=======
 1,8221015,Kapil Shestha,,1
 2,8221036,Smriti Ghimire,,1
 3,8221014,Jenisha Ghimire,,1
@@ -11,3 +38,4 @@ S.N.,Symbol No,Name,Presentation Title,Status
 10,8221039,Swastika Timalsina,,1
 11,8221030,Prakriti Parajuli,,1
 12,8221001,Aasha Shrestha,,1
+>>>>>>> 7eec11a0d4eb43be863b49a95210c936c8c22b5c
