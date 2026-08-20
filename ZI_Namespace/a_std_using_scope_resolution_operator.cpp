@@ -4,7 +4,8 @@
 int main()
 {
     int roll; // donot use in built-in data type
-    std::string name; // will get error "string name;"
+    // char name[20]; // donot use in built-in data type
+    std::string name; // will get error if "string name;"
     std::cout << "Enter your roll number:";
     std::cin >> roll;
     std::cout << "Enter your name:";
