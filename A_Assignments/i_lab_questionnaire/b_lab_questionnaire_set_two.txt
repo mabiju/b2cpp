@@ -11,6 +11,71 @@ ii. Output:
 
 Questionnaire
 -------------
+1)	Write a C++ program to display "Hello, World!" using the basic structure of a C++ program.	
+2)	Write a C++ program to declare variables of different data types and display their values.	
+3)	Write a C++ program to perform addition, subtraction, multiplication, division, and modulus of two numbers.	
+4)	Write a C++ program to calculate the area and perimeter of a rectangle.	
+5)	Write a C++ program to calculate the area and circumference of a circle.	
+6)	Write a C++ program to swap two numbers using a third variable.	
+7)	Write a C++ program to swap two numbers without using a third variable.	
+8)	Write a C++ program to demonstrate implicit type conversion.	
+9)	Write a C++ program to demonstrate explicit type conversion using type casting.	
+10)	Write a C++ program to convert temperature from Celsius to Fahrenheit.	
+11)	Write a C++ program to convert temperature from Fahrenheit to Celsius.	
+12)	Write a C++ program to calculate simple interest using constant values for rate.	
+13)	Write a C++ program to calculate compound interest.	
+14)	Write a C++ program to calculate the average of five numbers entered by the user.	
+15)	Write a C++ program to display the size of all basic data types using the sizeof() operator.	
+16)	Write a C++ program to demonstrate the use of the const keyword.	
+17)	Write a C++ program to input a character and display its corresponding ASCII value using type conversion.	
+18)	Write a short report comparing Structured Programming and Object-Oriented Programming with suitable examples.	
+19)	Write a C++ program using an inline function to calculate the square of a number.	
+20)	Write a C++ program using an inline function to calculate the cube of a number.	
+21)	Write a C++ program using an inline function to determine whether a number is even or odd.	
+22)	Write a C++ program to overload a function for adding two integers and two floating-point numbers.	
+23)	Write a C++ program to overload a function to calculate the area of a rectangle and a circle.	
+24)	Write a C++ program to overload a function that displays one integer and two integers.	
+25)	Write a C++ program to overload a function for finding the maximum of two integers and three integers.	
+26)	Write a C++ program using default arguments to calculate simple interest.	
+27)	Write a C++ program using default arguments to calculate the volume of a box.	
+28)	Write a C++ program using default arguments to calculate the power of a number.	
+29)	Write a C++ program to swap two numbers using reference arguments.	
+30)	Write a C++ program to exchange two strings using reference arguments.	
+31)	Write a C++ program to increment the value of a variable using a reference argument.	
+32)	Write a C++ program that returns the larger of two numbers by reference.	
+33)	Write a C++ program that returns the smallest element of an array by reference.	
+34)	Write a C++ program to demonstrate the difference between call by value and call by reference.	
+35)	Write a C++ program to create a class Student with data members and member functions to input and display student details.	
+36)	Write a C++ program to create a class Employee with member functions to input and display employee information.	
+37)	Write a C++ program to create a class Rectangle that calculates area and perimeter.	
+38)	Write a C++ program to create a class Circle that calculates area and circumference.	
+39)	Write a C++ program to demonstrate private, public, and protected access specifiers.	
+40)	Write a C++ program to demonstrate the use of a default constructor.	
+41)	Write a C++ program to demonstrate the use of a parameterized constructor.	
+42)	Write a C++ program to demonstrate the use of a copy constructor.	
+43)	Write a C++ program to demonstrate constructor overloading.	
+44)	Write a C++ program to demonstrate the working of a destructor.	
+45)	Write a C++ program to create a class Book containing an array of marks and display the total marks.	
+46)	Write a C++ program to create a class Product having an array of prices and calculate the total price.	
+47)	Write a C++ program to create an array of objects for five students and display their details.	
+48)	Write a C++ program to create an array of objects for five employees and display their information.	
+49)	Write a C++ program to count the number of objects created using a class.	
+50)	Write a C++ program to create a class BankAccount with deposit and display functions.	
+51)	Write a C++ program to create a class Time and display the entered time.	
+52)	Write a C++ program to create a class Date and display the entered date.	
+53)	Write a C++ program to create a class Product with product ID, name, and price and display the details.	
+54)	Write a C++ program to create a class LibraryBook with book ID, title, and author and display the information.	
+55)	Write a C++ program to demonstrate single inheritance using Person and Student classes.	
+56)	Write a C++ program to demonstrate public inheritance.	
+57)	Write a C++ program to demonstrate protected inheritance.	
+58)	Write a C++ program to demonstrate private inheritance.	
+59)	Write a C++ program to demonstrate multilevel inheritance using Person, Employee, and Manager classes.	
+60)	Write a C++ program to demonstrate hierarchical inheritance using Shape, Rectangle, and Circle classes.	
+61)	Write a C++ program to demonstrate multiple inheritance using Teacher, Researcher, and Professor classes.	
+62)	Write a C++ program to demonstrate function overriding using a base class and a derived class.	
+63)	Write a C++ program to demonstrate ambiguity due to multiple inheritance.	
+64)	Write a C++ program to demonstrate the execution sequence of constructors and destructors in inheritance.	
+65)	Write a C++ program that demonstrates all major types of inheritance (single, multilevel, hierarchical, and multiple inheritance) in separate classes within a single program.
 
 Assigned : 2083/03/32, Thursday
 Deadline : 2083/04/31, Sunday
